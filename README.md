@@ -17,5 +17,5 @@ This project focused on the secure deployment of an OpenVPN server within the AW
 <br />
 - <b>Amazon Inspector</b>
 
-<h2>Report and Screenshot PDFs</h2>
+<h2>Report PDF</h2>
 
