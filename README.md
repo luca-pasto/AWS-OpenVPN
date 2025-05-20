@@ -18,4 +18,4 @@ This project focused on the secure deployment of an OpenVPN server within the AW
 - <b>Amazon Inspector</b>
 
 <h2>Report PDF</h2>
-
+- <a href="pdf/MIS420-AWSProjectReport-LucaPasto.pdf" target="_blank">Report PDF</a>
